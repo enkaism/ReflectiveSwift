@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "70052edab3c66722308074e4a1177adb"
+build_time: [509726926, 627673000]
+inputs:
+  "/Users/ninerabbit/Desktop/a/a/AppDelegate.swift": [509726864, 0]
+  "/Users/ninerabbit/Desktop/a/a/ViewController.swift": [509725187, 0]

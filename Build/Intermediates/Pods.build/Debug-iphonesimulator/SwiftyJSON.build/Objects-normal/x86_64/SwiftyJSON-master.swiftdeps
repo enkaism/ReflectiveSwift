@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "be43618a04a6f22b583f6a4f636fa6a5"
+build_time: [509726520, 595427000]
+inputs:
+  "/Users/ninerabbit/Desktop/a/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [509726495, 0]

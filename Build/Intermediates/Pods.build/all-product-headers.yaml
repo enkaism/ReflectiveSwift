@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ninerabbit/Desktop/a/Build/Products/Debug-iphonesimulator/Pods_a.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-a-umbrella.h",
+          'external-contents': "/Users/ninerabbit/Desktop/a/Pods/Target Support Files/Pods-a/Pods-a-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_a-Swift.h",
+          'external-contents': "/Users/ninerabbit/Desktop/a/Build/Products/Debug-iphonesimulator/Pods_a.framework/Headers/Pods_a-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ninerabbit/Desktop/a/Build/Products/Debug-iphonesimulator/Pods_a.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ninerabbit/Desktop/a/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-a.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ninerabbit/Desktop/a/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/ninerabbit/Desktop/a/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/ninerabbit/Desktop/a/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ninerabbit/Desktop/a/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ninerabbit/Desktop/a/Build/Intermediates/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
