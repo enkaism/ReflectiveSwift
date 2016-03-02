@@ -30,16 +30,16 @@ typealias Model = NSObject
 
 class M: Model {
     var count: String?
-    var result: Result?
-}
+    var result: Result = Result()
 
-class Result: Model {
-    var species: Species = Species()
-}
-
-class Species: Model {
-    var id: Int = 0
-    var name: String?
+    class Result: Model {
+        var species: Species = Species()
+    }
+    
+    class Species: Model {
+        var id: Int = 0
+        var name: String?
+    }
 }
 
 
@@ -69,8 +69,7 @@ func ireru<T: NSObject>(tin: T, d: [String: JSON]?) {
     }
 }
 
-
 var json = JSON.parse(JSONString)
 var model = M()
 ireru(model, d: json.dictionary)
-model.result?.species.id
+model.result.species.id
